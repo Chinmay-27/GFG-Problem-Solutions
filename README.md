@@ -17,7 +17,6 @@ Welcome to my GeeksforGeeks problem solutions repository! Here, you'll discover 
 ## Repository Structure
 
 - Each problem solution is organized within its dedicated folder, named either after the problem title or a descriptive identifier.
-- Within each folder, you'll find the source code file (typically with a `.cpp`, `.java`, or `.py` extension) for the solution, along with any additional resources if necessary.
 - I adhere to a consistent naming convention in which each file is titled according to the problem's title or a simplified version of it.
 
 ## How to Utilize This Repository
