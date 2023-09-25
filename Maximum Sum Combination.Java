@@ -13,7 +13,8 @@ class Solution {
             }
         }
 
-        // Extract the K maximum combinations from the red-black tree and add them to the result list
+
+        // Extract the K maximum combinations from the red-black tree and add them to the result 
         int count = 0;
         for (Integer sum : maxSumCombinations.keySet()) {
             int frequency = maxSumCombinations.get(sum);
