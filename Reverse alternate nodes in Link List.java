@@ -1,4 +1,4 @@
-/*node class of the linked list
+// node class of the linked list
 class Node
 {
     int data;
@@ -8,7 +8,7 @@ class Node
         data = key;
         next = null;
     }
-}*/
+}
 class Solution
 {
     public static void rearrange(Node odd)
