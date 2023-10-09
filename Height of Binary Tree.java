@@ -1,6 +1,6 @@
 //User function Template for Java
 
- 
+
 class Node
 {
     int data;
