@@ -1,6 +1,5 @@
 class Solution {
 
-  //Function to convert binary tree into circular doubly linked list.
   Node head = null, prev = null;
 
   void inorder(Node root) {
@@ -14,6 +13,7 @@ class Solution {
       }
       root.left = prev;
       prev = root;
+
       inorder(root.right);
     }
   }
